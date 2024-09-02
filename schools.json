@@ -1,0 +1,4472 @@
+[{
+    "name": "가락고등학교",
+    "lat": 37.50107579,
+    "lng": 127.1164258,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://garak.sen.hs.kr"
+}, {
+    "name": "가야고등학교",
+    "lat": 35.14630264,
+    "lng": 129.0310877,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.gaya.hs.kr"
+}, {
+    "name": "가야고등학교",
+    "lat": 35.14630264,
+    "lng": 129.0310877,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.gaya.hs.kr"
+}, {
+    "name": "가야고등학교",
+    "lat": 35.14630264,
+    "lng": 129.0310877,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.gaya.hs.kr"
+}, {
+    "name": "대전가오고등학교",
+    "lat": 36.3106602,
+    "lng": 127.4544751,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://gaohs.djsch.kr"
+}, {
+    "name": "가재울고등학교",
+    "lat": 37.57444587,
+    "lng": 126.9094148,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.gajaeul.hs.kr"
+}, {
+    "name": "가좌고등학교",
+    "lat": 37.68802952,
+    "lng": 126.7201873,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://gajwa.icehs.kr"
+}, {
+    "name": "가좌고등학교",
+    "lat": 37.48964618,
+    "lng": 126.6809096,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://gajwa.icehs.kr"
+}, {
+    "name": "강동고등학교",
+    "lat": 37.54991665,
+    "lng": 127.1606683,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://kangdong.sen.hs.kr"
+}, {
+    "name": "강동고등학교",
+    "lat": 35.63275915,
+    "lng": 129.435202,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://kangdong.sen.hs.kr"
+}, {
+    "name": "강동고등학교",
+    "lat": 35.86598296,
+    "lng": 128.7296127,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://kangdong.sen.hs.kr"
+}, {
+    "name": "강동중학교",
+    "lat": 37.56965025,
+    "lng": 127.177836,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://www.gang-dong.ms.kr"
+}, {
+    "name": "강동중학교",
+    "lat": 35.62962384,
+    "lng": 129.4349346,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://www.gang-dong.ms.kr"
+}, {
+    "name": "강동중학교",
+    "lat": 35.86694911,
+    "lng": 128.729474,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://www.gang-dong.ms.kr"
+}, {
+    "name": "강서고등학교",
+    "lat": 37.53631557,
+    "lng": 126.8657711,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://gangseo.sen.hs.kr"
+}, {
+    "name": "강서고등학교",
+    "lat": 37.53631557,
+    "lng": 126.8657711,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://gangseo.sen.hs.kr"
+}, {
+    "name": "강서고등학교",
+    "lat": 37.53631557,
+    "lng": 126.8657711,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://gangseo.sen.hs.kr"
+}, {
+    "name": "검단고등학교",
+    "lat": 37.60386225,
+    "lng": 126.6647414,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://geomdan.icehs.kr"
+}, {
+    "name": "경주예일고등학교",
+    "lat": 35.9933896,
+    "lng": 129.2108268,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/gj-yale"
+}, {
+    "name": "경덕여자고등학교",
+    "lat": 35.86357119,
+    "lng": 128.5489381,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://kyungduk.dge.hs.kr"
+}, {
+    "name": "경민IT고등학교",
+    "lat": 37.74612458,
+    "lng": 127.0251316,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "https://kmit-h.goeujb.kr/kmit-h/main.do"
+}, {
+    "name": "경민고등학교",
+    "lat": 37.74612458,
+    "lng": 127.0251316,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://kyungmin-h.goeujb.kr"
+}, {
+    "name": "경민여자중학교",
+    "lat": 37.74612458,
+    "lng": 127.0251316,
+    "gender": "여",
+    "type": "  ",
+    "url": "https://kmg-m.goeujb.kr"
+}, {
+    "name": "경북여자고등학교",
+    "lat": 35.85842716,
+    "lng": 128.5922004,
+    "gender": "여",
+    "type": "자율고",
+    "url": "https://gbg.dge.hs.kr/"
+}, {
+    "name": "경북외국어고등학교",
+    "lat": 36.1237704,
+    "lng": 128.3227831,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://school.gyo6.net/gyeongbuk-fl"
+}, {
+    "name": "경상중학교",
+    "lat": 35.85261994,
+    "lng": 128.5853705,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://kyungsang.dge.ms.kr"
+}, {
+    "name": "경안고등학교",
+    "lat": 37.32519093,
+    "lng": 126.8349272,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://kyungan.hs.kr"
+}, {
+    "name": "경안고등학교",
+    "lat": 36.56850446,
+    "lng": 128.7204749,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://kyungan.hs.kr"
+}, {
+    "name": "경안여자고등학교",
+    "lat": 36.57650803,
+    "lng": 128.6833866,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/gagi"
+}, {
+    "name": "경원고등학교",
+    "lat": 35.86547932,
+    "lng": 128.525679,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.kyungwon.hs.kr"
+}, {
+    "name": "경원고등학교",
+    "lat": 35.16371025,
+    "lng": 129.0318871,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.kyungwon.hs.kr"
+}, {
+    "name": "경일고등학교",
+    "lat": 35.11248236,
+    "lng": 128.9224148,
+    "gender": "남여공학",
+    "type": "자율고",
+    "url": "http://kyungil.sen.hs.kr"
+}, {
+    "name": "경일고등학교",
+    "lat": 37.54382982,
+    "lng": 127.0478683,
+    "gender": "남여공학",
+    "type": "자율고",
+    "url": "http://kyungil.sen.hs.kr"
+}, {
+    "name": "경일고등학교",
+    "lat": 36.57569842,
+    "lng": 128.7378295,
+    "gender": "남여공학",
+    "type": "자율고",
+    "url": "http://kyungil.sen.hs.kr"
+}, {
+    "name": "경일고등학교",
+    "lat": 35.11248236,
+    "lng": 128.9224148,
+    "gender": "남여공학",
+    "type": "자율고",
+    "url": "http://kyungil.sen.hs.kr"
+}, {
+    "name": "경일고등학교",
+    "lat": 37.54382982,
+    "lng": 127.0478683,
+    "gender": "남여공학",
+    "type": "자율고",
+    "url": "http://kyungil.sen.hs.kr"
+}, {
+    "name": "경일고등학교",
+    "lat": 36.57569842,
+    "lng": 128.7378295,
+    "gender": "남여공학",
+    "type": "자율고",
+    "url": "http://kyungil.sen.hs.kr"
+}, {
+    "name": "경일고등학교",
+    "lat": 35.11248236,
+    "lng": 128.9224148,
+    "gender": "남여공학",
+    "type": "자율고",
+    "url": "http://kyungil.sen.hs.kr"
+}, {
+    "name": "경일고등학교",
+    "lat": 37.54382982,
+    "lng": 127.0478683,
+    "gender": "남여공학",
+    "type": "자율고",
+    "url": "http://kyungil.sen.hs.kr"
+}, {
+    "name": "경일고등학교",
+    "lat": 36.57569842,
+    "lng": 128.7378295,
+    "gender": "남여공학",
+    "type": "자율고",
+    "url": "http://kyungil.sen.hs.kr"
+}, {
+    "name": "경일중학교",
+    "lat": 35.88139487,
+    "lng": 128.5763528,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://kyungil.ms.kr"
+}, {
+    "name": "경일중학교",
+    "lat": 37.54382982,
+    "lng": 127.0478683,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://kyungil.ms.kr"
+}, {
+    "name": "경일중학교",
+    "lat": 35.09406962,
+    "lng": 128.9162897,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://kyungil.ms.kr"
+}, {
+    "name": "경혜여자고등학교",
+    "lat": 35.20418761,
+    "lng": 129.0105038,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://kyonghye.hs.kr/"
+}, {
+    "name": "계남고등학교",
+    "lat": 37.49619693,
+    "lng": 126.7726105,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://gyenam-h.goebc.kr"
+}, {
+    "name": "계산여자고등학교",
+    "lat": 37.53825318,
+    "lng": 126.7418943,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://kyesan-g.icehs.kr/"
+}, {
+    "name": "고잔고등학교",
+    "lat": 37.30878749,
+    "lng": 126.8353458,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.kojan.hs.kr"
+}, {
+    "name": "곡정고등학교",
+    "lat": 37.24384332,
+    "lng": 127.0201503,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.gokjeong.hs.kr/"
+}, {
+    "name": "공항중학교",
+    "lat": 37.56217751,
+    "lng": 126.8149668,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://gonghang.ms.kr"
+}, {
+    "name": "한국관광고등학교",
+    "lat": 37.07183184,
+    "lng": 127.0220615,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "https://tourism-h.goept.kr"
+}, {
+    "name": "한국관광고등학교",
+    "lat": 37.07183184,
+    "lng": 127.0220615,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "https://tourism-h.goept.kr"
+}, {
+    "name": "한국관광고등학교",
+    "lat": 37.07183184,
+    "lng": 127.0220615,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "https://tourism-h.goept.kr"
+}, {
+    "name": "한국관광고등학교",
+    "lat": 37.07183184,
+    "lng": 127.0220615,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "https://tourism-h.goept.kr"
+}, {
+    "name": "한국관광고등학교",
+    "lat": 37.07183184,
+    "lng": 127.0220615,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "https://tourism-h.goept.kr"
+}, {
+    "name": "한국관광고등학교",
+    "lat": 37.07183184,
+    "lng": 127.0220615,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "https://tourism-h.goept.kr"
+}, {
+    "name": "관교여자중학교",
+    "lat": 37.44513573,
+    "lng": 126.6889705,
+    "gender": "여",
+    "type": "  ",
+    "url": "http://igg.icems.kr/"
+}, {
+    "name": "학산중학교",
+    "lat": 35.83142406,
+    "lng": 128.5257973,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://www.daegu-haksan.ms.kr/"
+}, {
+    "name": "학산중학교",
+    "lat": 35.56034415,
+    "lng": 126.8753952,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://www.daegu-haksan.ms.kr/"
+}, {
+    "name": "학산중학교",
+    "lat": 36.10090506,
+    "lng": 127.6820366,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://www.daegu-haksan.ms.kr/"
+}, {
+    "name": "양산고등학교",
+    "lat": 35.34866256,
+    "lng": 129.0445079,
+    "gender": "남",
+    "type": "일반고",
+    "url": "https://yangsan-h.gne.go.kr"
+}, {
+    "name": "대전관저고등학교",
+    "lat": 36.31080711,
+    "lng": 127.3377631,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://gjhs.djsch.kr"
+}, {
+    "name": "대전관평중학교",
+    "lat": 36.424095,
+    "lng": 127.3871878,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://gpms.djsch.kr"
+}, {
+    "name": "광교고등학교",
+    "lat": 37.28972795,
+    "lng": 127.0485481,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://gwanggyo-h.goesw.kr"
+}, {
+    "name": "광남고등학교",
+    "lat": 37.54151472,
+    "lng": 127.1012139,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.gwang-nam.hs.kr"
+}, {
+    "name": "광남고등학교",
+    "lat": 35.03858698,
+    "lng": 126.8442532,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.gwang-nam.hs.kr"
+}, {
+    "name": "광남고등학교",
+    "lat": 37.38464209,
+    "lng": 127.2378011,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.gwang-nam.hs.kr"
+}, {
+    "name": "광남중학교",
+    "lat": 37.54083041,
+    "lng": 127.1016205,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://www.gwangnam.ms.kr"
+}, {
+    "name": "광남중학교",
+    "lat": 37.47007475,
+    "lng": 126.8475588,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://www.gwangnam.ms.kr"
+}, {
+    "name": "청덕고등학교",
+    "lat": 37.29233368,
+    "lng": 127.143917,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://cheongdeok-h.goeyi.kr"
+}, {
+    "name": "광문고등학교",
+    "lat": 37.46462137,
+    "lng": 126.8495912,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://gwangmun.sen.hs.kr"
+}, {
+    "name": "광문고등학교",
+    "lat": 37.56046181,
+    "lng": 127.1585463,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://gwangmun.sen.hs.kr"
+}, {
+    "name": "광양여자고등학교",
+    "lat": 34.97649691,
+    "lng": 127.5804126,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://gwangyangg.hs.jne.kr/"
+}, {
+    "name": "광영고등학교",
+    "lat": 34.96187544,
+    "lng": 127.7146684,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://www.ky.hs.kr"
+}, {
+    "name": "광영고등학교",
+    "lat": 37.5371981,
+    "lng": 126.8232759,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://www.ky.hs.kr"
+}, {
+    "name": "대전괴정고등학교",
+    "lat": 36.34040306,
+    "lng": 127.3788431,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://goejeonghs.djsch.kr"
+}, {
+    "name": "구미여자고등학교",
+    "lat": 36.14446461,
+    "lng": 128.3316915,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/gumigirlhs"
+}, {
+    "name": "대전구봉고등학교",
+    "lat": 36.29557493,
+    "lng": 127.3310026,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://gubonghs.djsch.kr/"
+}, {
+    "name": "한국관광고등학교",
+    "lat": 37.07183184,
+    "lng": 127.0220615,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "https://tourism-h.goept.kr"
+}, {
+    "name": "한국관광고등학교",
+    "lat": 37.07183184,
+    "lng": 127.0220615,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "https://tourism-h.goept.kr"
+}, {
+    "name": "권선고등학교",
+    "lat": 37.25278194,
+    "lng": 127.0333651,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.kwonsun.hs.kr"
+}, {
+    "name": "금곡고등학교",
+    "lat": 35.2443532,
+    "lng": 129.0119466,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.geumgok.hs.kr/"
+}, {
+    "name": "금곡고등학교",
+    "lat": 37.63309159,
+    "lng": 127.2129487,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.geumgok.hs.kr/"
+}, {
+    "name": "금곡고등학교",
+    "lat": 35.2443532,
+    "lng": 129.0119466,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.geumgok.hs.kr/"
+}, {
+    "name": "금곡고등학교",
+    "lat": 37.63309159,
+    "lng": 127.2129487,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.geumgok.hs.kr/"
+}, {
+    "name": "금곡고등학교",
+    "lat": 35.2443532,
+    "lng": 129.0119466,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.geumgok.hs.kr/"
+}, {
+    "name": "금곡고등학교",
+    "lat": 37.63309159,
+    "lng": 127.2129487,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.geumgok.hs.kr/"
+}, {
+    "name": "금명여자고등학교",
+    "lat": 35.24429037,
+    "lng": 129.0245999833,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.gmg.hs.kr"
+}, {
+    "name": "금명여자고등학교",
+    "lat": 35.24429037,
+    "lng": 129.0245999833,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.gmg.hs.kr"
+}, {
+    "name": "금오고등학교",
+    "lat": 36.10894994,
+    "lng": 128.3556319,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/geumohs"
+}, {
+    "name": "금오여자고등학교",
+    "lat": 36.14245673,
+    "lng": 128.3459186,
+    "gender": "",
+    "type": "",
+    "url": ""
+}, {
+    "name": "금정여자고등학교",
+    "lat": 35.22026157,
+    "lng": 129.1011474,
+    "gender": "여",
+    "type": "일반고",
+    "url": "www.kjung.hs.kr"
+}, {
+    "name": "길원여자고등학교",
+    "lat": 36.57936511,
+    "lng": 128.7351218,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/gilwon"
+}, {
+    "name": "김해여자고등학교",
+    "lat": 35.24055291,
+    "lng": 128.8810336,
+    "gender": "여",
+    "type": "일반고",
+    "url": "kumbul-h.gne.go.kr"
+}, {
+    "name": "나루고등학교",
+    "lat": 37.18656401,
+    "lng": 127.0719398,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.naru.hs.kr"
+}, {
+    "name": "낙동고등학교",
+    "lat": 35.21706432,
+    "lng": 129.0096023,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.nakdong.hs.kr"
+}, {
+    "name": "낙동고등학교",
+    "lat": 35.21706432,
+    "lng": 129.0096023,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.nakdong.hs.kr"
+}, {
+    "name": "학남고등학교",
+    "lat": 35.94627087,
+    "lng": 128.5691977,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://haknam.dge.hs.kr"
+}, {
+    "name": "남도여자중학교",
+    "lat": 35.0870604,
+    "lng": 129.0455444,
+    "gender": "여",
+    "type": " ",
+    "url": "http://namdo.ms.kr"
+}, {
+    "name": "양산남부고등학교",
+    "lat": 35.33258201,
+    "lng": 129.0247489,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://ysnambu-h.gne.go.kr"
+}, {
+    "name": "남성여자고등학교",
+    "lat": 35.10571479,
+    "lng": 129.0344121,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.psnamsung.hs.kr"
+}, {
+    "name": "남성여자고등학교",
+    "lat": 35.10571479,
+    "lng": 129.0344121,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.psnamsung.hs.kr"
+}, {
+    "name": "남성여자고등학교",
+    "lat": 35.10571479,
+    "lng": 129.0344121,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.psnamsung.hs.kr"
+}, {
+    "name": "남성여자고등학교",
+    "lat": 35.10571479,
+    "lng": 129.0344121,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.psnamsung.hs.kr"
+}, {
+    "name": "남인천여자중학교",
+    "lat": 37.44511845,
+    "lng": 126.6940513,
+    "gender": "여",
+    "type": " ",
+    "url": "http://namincheon.icems.kr"
+}, {
+    "name": "정왕중학교",
+    "lat": 37.34018306,
+    "lng": 126.7424822,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "www.jeongwang.ms.kr"
+}, {
+    "name": "노변중학교",
+    "lat": 35.83808623,
+    "lng": 128.694355,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "https://nobyeon.dge.ms.kr"
+}, {
+    "name": "대전노은고등학교",
+    "lat": 36.36939669,
+    "lng": 127.3232157,
+    "gender": "남여공학",
+    "type": "자율고",
+    "url": "http://noeunhs.djsch.kr"
+}, {
+    "name": "노은중학교",
+    "lat": 37.04837368,
+    "lng": 127.7529067,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://school.cbe.go.kr/noun-m"
+}, {
+    "name": "형곡중학교",
+    "lat": 36.10630547,
+    "lng": 128.330934,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://school.gyo6.net/hyeonggokms"
+}, {
+    "name": "영생고등학교",
+    "lat": 37.30473311,
+    "lng": 126.9742361,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://myys-h.goesw.kr"
+}, {
+    "name": "효원고등학교",
+    "lat": 37.25941827,
+    "lng": 127.0390512,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.hyowon.hs.kr"
+}, {
+    "name": "능동고등학교",
+    "lat": 37.21390891,
+    "lng": 127.0575058,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.neungdong.hs.kr"
+}, {
+    "name": "능동고등학교",
+    "lat": 37.21390891,
+    "lng": 127.0575058,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.neungdong.hs.kr"
+}, {
+    "name": "다대고등학교",
+    "lat": 35.05313679,
+    "lng": 128.9698499,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://dadae.hs.kr"
+}, {
+    "name": "다대중학교",
+    "lat": 35.05737649,
+    "lng": 128.9682545,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://dadae.ms.kr"
+}, {
+    "name": "다사고등학교",
+    "lat": 35.86110567,
+    "lng": 128.4627608,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://dasa.dge.hs.kr"
+}, {
+    "name": "다선중학교",
+    "lat": 35.05271729,
+    "lng": 128.9637818,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://dasun.ms.kr"
+}, {
+    "name": "효원고등학교",
+    "lat": 37.25941827,
+    "lng": 127.0390512,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.hyowon.hs.kr"
+}, {
+    "name": "당리중학교",
+    "lat": 35.1022387,
+    "lng": 128.9805243,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://dangni.ms.kr"
+}, {
+    "name": "대곡중학교",
+    "lat": 35.17067837,
+    "lng": 128.1363065,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://www.daegok.dge.ms.kr"
+}, {
+    "name": "대곡중학교",
+    "lat": 35.80633289,
+    "lng": 128.5325413,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://www.daegok.dge.ms.kr"
+}, {
+    "name": "대구일중학교",
+    "lat": 35.88627468,
+    "lng": 128.5841979,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://www.tgil.ms.kr"
+}, {
+    "name": "대덕고등학교",
+    "lat": 36.38757339,
+    "lng": 127.3816844,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://daedeokhs.djsch.kr/"
+}, {
+    "name": "대덕고등학교",
+    "lat": 36.38757339,
+    "lng": 127.3816844,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://daedeokhs.djsch.kr/"
+}, {
+    "name": "대덕여자고등학교",
+    "lat": 35.17944488,
+    "lng": 128.9933857,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://daeduk.hs.kr"
+}, {
+    "name": "대덕여자고등학교",
+    "lat": 35.17944488,
+    "lng": 128.9933857,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://daeduk.hs.kr"
+}, {
+    "name": "대덕여자고등학교",
+    "lat": 35.17944488,
+    "lng": 128.9933857,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://daeduk.hs.kr"
+}, {
+    "name": "대덕여자고등학교",
+    "lat": 35.17944488,
+    "lng": 128.9933857,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://daeduk.hs.kr"
+}, {
+    "name": "대덕여자고등학교",
+    "lat": 35.17944488,
+    "lng": 128.9933857,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://daeduk.hs.kr"
+}, {
+    "name": "대덕여자고등학교",
+    "lat": 35.17944488,
+    "lng": 128.9933857,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://daeduk.hs.kr"
+}, {
+    "name": "대덕여자고등학교",
+    "lat": 35.17944488,
+    "lng": 128.9933857,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://daeduk.hs.kr"
+}, {
+    "name": "대덕여자고등학교",
+    "lat": 35.17944488,
+    "lng": 128.9933857,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://daeduk.hs.kr"
+}, {
+    "name": "대명여자고등학교",
+    "lat": 35.21211001,
+    "lng": 129.0962141,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.daemyung.hs.kr"
+}, {
+    "name": "대명여자고등학교",
+    "lat": 35.21211001,
+    "lng": 129.0962141,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.daemyung.hs.kr"
+}, {
+    "name": "대명여자고등학교",
+    "lat": 35.21211001,
+    "lng": 129.0962141,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.daemyung.hs.kr"
+}, {
+    "name": "대명여자고등학교",
+    "lat": 35.21211001,
+    "lng": 129.0962141,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.daemyung.hs.kr"
+}, {
+    "name": "대성고등학교",
+    "lat": 37.62316122,
+    "lng": 126.9097907,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://dae-sung.sen.hs.kr"
+}, {
+    "name": "대성고등학교",
+    "lat": 37.32730971,
+    "lng": 127.9208654,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://dae-sung.sen.hs.kr"
+}, {
+    "name": "대성여자고등학교",
+    "lat": 35.11824545,
+    "lng": 126.894003,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://daesung.gen.hs.kr"
+}, {
+    "name": "대성여자고등학교",
+    "lat": 35.11824545,
+    "lng": 126.894003,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://daesung.gen.hs.kr"
+}, {
+    "name": "대성여자상업고등학교",
+    "lat": 36.6450685,
+    "lng": 127.4924416,
+    "gender": "여",
+    "type": "특성화고",
+    "url": "http://school.cbe.go.kr/cds-h/M01"
+}, {
+    "name": "대원고등학교",
+    "lat": 37.56249279,
+    "lng": 127.0894374,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://daewon.sen.hs.kr"
+}, {
+    "name": "대원고등학교",
+    "lat": 35.80668948,
+    "lng": 128.5070767,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://daewon.sen.hs.kr"
+}, {
+    "name": "대전고등학교",
+    "lat": 36.32243054,
+    "lng": 127.423386,
+    "gender": "남",
+    "type": "자율고",
+    "url": "djhs.djsch.kr"
+}, {
+    "name": "대전여자고등학교",
+    "lat": 36.33001268,
+    "lng": 127.4463707,
+    "gender": "여",
+    "type": "자율고",
+    "url": "http://djghs.djsch.kr"
+}, {
+    "name": "대전예술고등학교",
+    "lat": 36.34695405,
+    "lng": 127.3335599725,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://daejeonartshs.djsch.kr/"
+}, {
+    "name": "대전외국어고등학교",
+    "lat": 36.3366379,
+    "lng": 127.3654894,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://djflhs.djsch.kr"
+}, {
+    "name": "대진고등학교",
+    "lat": 37.63780685,
+    "lng": 127.0760900225,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://www.dae-jin.hs.kr"
+}, {
+    "name": "대진고등학교",
+    "lat": 38.48548499,
+    "lng": 128.4334014,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://www.dae-jin.hs.kr"
+}, {
+    "name": "대진고등학교",
+    "lat": 35.80569844,
+    "lng": 128.5183763,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://www.dae-jin.hs.kr"
+}, {
+    "name": "대진고등학교",
+    "lat": 37.63780685,
+    "lng": 127.0760900225,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://www.dae-jin.hs.kr"
+}, {
+    "name": "대진고등학교",
+    "lat": 38.48548499,
+    "lng": 128.4334014,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://www.dae-jin.hs.kr"
+}, {
+    "name": "대진고등학교",
+    "lat": 35.80569844,
+    "lng": 128.5183763,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://www.dae-jin.hs.kr"
+}, {
+    "name": "대청중학교",
+    "lat": 35.18858742,
+    "lng": 128.8025437,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://daecheong.sen.ms.kr"
+}, {
+    "name": "대청중학교",
+    "lat": 35.2333144,
+    "lng": 129.2128169,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://daecheong.sen.ms.kr"
+}, {
+    "name": "대청중학교",
+    "lat": 37.49043056,
+    "lng": 127.0583501,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://daecheong.sen.ms.kr"
+}, {
+    "name": "대청중학교",
+    "lat": 37.8325852,
+    "lng": 124.6939792,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://daecheong.sen.ms.kr"
+}, {
+    "name": "대화고등학교",
+    "lat": 37.49329552,
+    "lng": 128.4599834,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.daehwa-is.hs.kr"
+}, {
+    "name": "대화고등학교",
+    "lat": 37.66846943,
+    "lng": 126.732143,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.daehwa-is.hs.kr"
+}, {
+    "name": "덕문여자고등학교",
+    "lat": 35.16774439,
+    "lng": 129.1036484,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.dukmoon.hs.kr"
+}, {
+    "name": "덕문여자고등학교",
+    "lat": 35.16774439,
+    "lng": 129.1036484,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.dukmoon.hs.kr"
+}, {
+    "name": "청덕고등학교",
+    "lat": 37.29233368,
+    "lng": 127.143917,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://cheongdeok-h.goeyi.kr"
+}, {
+    "name": "덕원중학교",
+    "lat": 35.82572222,
+    "lng": 128.705953,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://deokwon.sen.ms.kr"
+}, {
+    "name": "덕원중학교",
+    "lat": 35.10885429,
+    "lng": 129.0324467,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://deokwon.sen.ms.kr"
+}, {
+    "name": "덕원중학교",
+    "lat": 37.54862258,
+    "lng": 126.8290245,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://deokwon.sen.ms.kr"
+}, {
+    "name": "덕이고등학교",
+    "lat": 37.69575632,
+    "lng": 126.7548512,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.deogi.hs.kr/"
+}, {
+    "name": "도당고등학교",
+    "lat": 37.51862256,
+    "lng": 126.7909608,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "dodang-h.goebc.kr"
+}, {
+    "name": "대전도안고등학교",
+    "lat": 36.33692213,
+    "lng": 127.3373195,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://doanhs.djsch.kr"
+}, {
+    "name": "백마고등학교",
+    "lat": 37.65198233,
+    "lng": 126.7940121,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://baekma.hs.kr"
+}, {
+    "name": "향동고등학교",
+    "lat": 37.59669267,
+    "lng": 126.8934462,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "hyangdong-h.goegy.kr"
+}, {
+    "name": "동광양중학교",
+    "lat": 34.945509997,
+    "lng": 127.6965072,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://donggy.ms.jne.kr"
+}, {
+    "name": "동대전고등학교",
+    "lat": 36.35628714,
+    "lng": 127.4236428,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://ddjhs.djsch.kr"
+}, {
+    "name": "동래여자고등학교",
+    "lat": 35.24704234,
+    "lng": 129.0981972,
+    "gender": "여",
+    "type": "일반고",
+    "url": "www.dongnae-gh.hs.kr"
+}, {
+    "name": "동문고등학교",
+    "lat": 35.87730148,
+    "lng": 128.6510319,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.dongmoon.hs.kr"
+}, {
+    "name": "동변중학교",
+    "lat": 35.91925722,
+    "lng": 128.6056093,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://dongbyun.dge.ms.kr"
+}, {
+    "name": "대구동부고등학교",
+    "lat": 35.87429023,
+    "lng": 128.7190722,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://dgdongbu.dge.hs.kr/"
+}, {
+    "name": "동부중학교",
+    "lat": 37.53549666,
+    "lng": 127.202479,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "https://dongbu-m.goegh.kr"
+}, {
+    "name": "동부중학교",
+    "lat": 34.82084244,
+    "lng": 128.6079629,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "https://dongbu-m.goegh.kr"
+}, {
+    "name": "동신중학교",
+    "lat": 37.53676952,
+    "lng": 127.1343666,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://dongshin.sen.ms.kr"
+}, {
+    "name": "동신중학교",
+    "lat": 35.20596274,
+    "lng": 129.0976723,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://dongshin.sen.ms.kr"
+}, {
+    "name": "동신중학교",
+    "lat": 36.3202964,
+    "lng": 127.4595324,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://dongshin.sen.ms.kr"
+}, {
+    "name": "하동여자고등학교",
+    "lat": 35.06279872,
+    "lng": 127.7472305,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://hanmaum-h.gne.go.kr"
+}, {
+    "name": "하동여자고등학교",
+    "lat": 35.06279872,
+    "lng": 127.7472305,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://hanmaum-h.gne.go.kr"
+}, {
+    "name": "동우여자고등학교",
+    "lat": 37.31981901,
+    "lng": 126.9824035,
+    "gender": "여",
+    "type": "일반고",
+    "url": "www.dongwoo.hs.kr"
+}, {
+    "name": "동원중학교",
+    "lat": 34.86949142,
+    "lng": 128.4131205,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://www.tongwon.ms.kr"
+}, {
+    "name": "동원중학교",
+    "lat": 37.60380725,
+    "lng": 127.1094981,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://www.tongwon.ms.kr"
+}, {
+    "name": "동원중학교",
+    "lat": 35.87585642,
+    "lng": 128.6510708,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://www.tongwon.ms.kr"
+}, {
+    "name": "동주여자고등학교",
+    "lat": 35.10097077,
+    "lng": 129.0313539,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.dongju.hs.kr"
+}, {
+    "name": "동주여자고등학교",
+    "lat": 35.10097077,
+    "lng": 129.0313539,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.dongju.hs.kr"
+}, {
+    "name": "동주여자고등학교",
+    "lat": 35.10097077,
+    "lng": 129.0313539,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.dongju.hs.kr"
+}, {
+    "name": "동주여자고등학교",
+    "lat": 35.10097077,
+    "lng": 129.0313539,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.dongju.hs.kr"
+}, {
+    "name": "동주여자고등학교",
+    "lat": 35.10097077,
+    "lng": 129.0313539,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.dongju.hs.kr"
+}, {
+    "name": "동주여자고등학교",
+    "lat": 35.10097077,
+    "lng": 129.0313539,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.dongju.hs.kr"
+}, {
+    "name": "동주여자중학교",
+    "lat": 35.10077153,
+    "lng": 129.0013638,
+    "gender": "여",
+    "type": " ",
+    "url": "http://dong-ju.ms.kr"
+}, {
+    "name": "동주여자중학교",
+    "lat": 35.10077153,
+    "lng": 129.0013638,
+    "gender": "여",
+    "type": " ",
+    "url": "http://dong-ju.ms.kr"
+}, {
+    "name": "동탄고등학교",
+    "lat": 37.20414063,
+    "lng": 127.0603836,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.dongtan.hs.kr"
+}, {
+    "name": "천안두정고등학교",
+    "lat": 36.83515306,
+    "lng": 127.130402,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://dujeong.caehs.kr/"
+}, {
+    "name": "둔촌고등학교",
+    "lat": 37.53143258,
+    "lng": 127.1438087,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://doonchon.sen.hs.kr/"
+}, {
+    "name": "문현고등학교",
+    "lat": 37.48131355,
+    "lng": 127.1287623,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://munhyeon.sen.hs.kr"
+}, {
+    "name": "문현고등학교",
+    "lat": 35.48239565,
+    "lng": 129.4091804,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://munhyeon.sen.hs.kr"
+}, {
+    "name": "양영디지털고등학교",
+    "lat": 37.37401753,
+    "lng": 127.1400112,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "yy-h.goesn.kr"
+}, {
+    "name": "부산마케팅고등학교",
+    "lat": 35.15108044,
+    "lng": 129.0704528,
+    "gender": "여",
+    "type": "특성화고",
+    "url": "http://www.marketing.hs.kr"
+}, {
+    "name": "만덕고등학교",
+    "lat": 35.20179406,
+    "lng": 129.0345872,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.mandeok.hs.kr/"
+}, {
+    "name": "만덕고등학교",
+    "lat": 35.20179406,
+    "lng": 129.0345872,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.mandeok.hs.kr/"
+}, {
+    "name": "만덕고등학교",
+    "lat": 35.20179406,
+    "lng": 129.0345872,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.mandeok.hs.kr/"
+}, {
+    "name": "정왕중학교",
+    "lat": 37.34018306,
+    "lng": 126.7424822,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "www.jeongwang.ms.kr"
+}, {
+    "name": "망포고등학교",
+    "lat": 37.23382741,
+    "lng": 127.0464357,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.mangpo.hs.kr"
+}, {
+    "name": "매원고등학교",
+    "lat": 37.26565476,
+    "lng": 127.0545337,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://maewon-h.goesw.kr"
+}, {
+    "name": "매탄고등학교",
+    "lat": 37.26262774,
+    "lng": 127.0447779,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.maetan.hs.kr"
+}, {
+    "name": "매향여자정보고등학교",
+    "lat": 37.28457355,
+    "lng": 127.0186217,
+    "gender": "여",
+    "type": "특성화고",
+    "url": "www.maehyang.hs.kr"
+}, {
+    "name": "명덕여자중학교",
+    "lat": 35.50434136,
+    "lng": 129.4242201,
+    "gender": "여",
+    "type": " ",
+    "url": "http://myungduk.sen.ms.kr"
+}, {
+    "name": "명덕여자중학교",
+    "lat": 37.55394399,
+    "lng": 126.8342914,
+    "gender": "여",
+    "type": " ",
+    "url": "http://myungduk.sen.ms.kr"
+}, {
+    "name": "명일여자고등학교",
+    "lat": 37.54977633,
+    "lng": 127.1495815,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.myungil.hs.kr"
+}, {
+    "name": "명지고등학교",
+    "lat": 37.58491135,
+    "lng": 126.9270902,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.myongjigo.net/"
+}, {
+    "name": "명호고등학교",
+    "lat": 35.08062883,
+    "lng": 128.9000754,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://myeongho.hs.kr/"
+}, {
+    "name": "대구일과학고등학교",
+    "lat": 35.88656282,
+    "lng": 128.7226999,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://www.dg1s.dge.hs.kr"
+}, {
+    "name": "문수고등학교",
+    "lat": 35.55569199,
+    "lng": 129.265401,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://munsu.hs.kr"
+}, {
+    "name": "문일여자고등학교",
+    "lat": 37.45247978,
+    "lng": 126.7306571,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://moonil-g.icehs.kr"
+}, {
+    "name": "문현여자고등학교",
+    "lat": 35.14513702,
+    "lng": 129.0739485,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.munhyun.hs.kr"
+}, {
+    "name": "문현여자고등학교",
+    "lat": 35.14513702,
+    "lng": 129.0739485,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.munhyun.hs.kr"
+}, {
+    "name": "문현여자고등학교",
+    "lat": 35.14513702,
+    "lng": 129.0739485,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.munhyun.hs.kr"
+}, {
+    "name": "대구일마이스터고등학교",
+    "lat": 35.88205162,
+    "lng": 128.6472193,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "dgmeister.dge.hs.k"
+}, {
+    "name": "대전반석고등학교",
+    "lat": 36.38691878,
+    "lng": 127.3135242,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://banseokhs.djsch.kr"
+}, {
+    "name": "반안중학교",
+    "lat": 35.20337703,
+    "lng": 129.1123947,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "school.busanedu.net/banan-m/"
+}, {
+    "name": "반여고등학교",
+    "lat": 35.20295915,
+    "lng": 129.1265612,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://school.busanedu.net/banyeo-h/main.do"
+}, {
+    "name": "발곡중학교",
+    "lat": 37.72744102,
+    "lng": 127.0549978,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "balgok-m.goeujb.kr"
+}, {
+    "name": "방산고등학교",
+    "lat": 37.50831315,
+    "lng": 127.1204696,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://bangsan.sen.hs.kr"
+}, {
+    "name": "방산중학교",
+    "lat": 37.50937287,
+    "lng": 127.1218756,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "www.bangsan.ms.kr"
+}, {
+    "name": "방산중학교",
+    "lat": 38.20502185,
+    "lng": 127.9380739,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "www.bangsan.ms.kr"
+}, {
+    "name": "백마고등학교",
+    "lat": 37.65198233,
+    "lng": 126.7940121,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://baekma.hs.kr"
+}, {
+    "name": "백석고등학교",
+    "lat": 37.6529063,
+    "lng": 126.7869189,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://i-baekseok.icehs.kr/"
+}, {
+    "name": "백석고등학교",
+    "lat": 37.58060358,
+    "lng": 126.6742921,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://i-baekseok.icehs.kr/"
+}, {
+    "name": "백석고등학교",
+    "lat": 37.6529063,
+    "lng": 126.7869189,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://i-baekseok.icehs.kr/"
+}, {
+    "name": "백석고등학교",
+    "lat": 37.58060358,
+    "lng": 126.6742921,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://i-baekseok.icehs.kr/"
+}, {
+    "name": "백석고등학교",
+    "lat": 37.6529063,
+    "lng": 126.7869189,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://i-baekseok.icehs.kr/"
+}, {
+    "name": "백석고등학교",
+    "lat": 37.58060358,
+    "lng": 126.6742921,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://i-baekseok.icehs.kr/"
+}, {
+    "name": "백석고등학교",
+    "lat": 37.6529063,
+    "lng": 126.7869189,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://i-baekseok.icehs.kr/"
+}, {
+    "name": "백석고등학교",
+    "lat": 37.58060358,
+    "lng": 126.6742921,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://i-baekseok.icehs.kr/"
+}, {
+    "name": "백신고등학교",
+    "lat": 37.64248837,
+    "lng": 126.7819557,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.baekshin.hs.kr"
+}, {
+    "name": "백양고등학교",
+    "lat": 37.62949459,
+    "lng": 126.8384269,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.paikyang.hs.kr"
+}, {
+    "name": "백양고등학교",
+    "lat": 37.62949459,
+    "lng": 126.8384269,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.paikyang.hs.kr"
+}, {
+    "name": "백운고등학교",
+    "lat": 37.38788839,
+    "lng": 126.9866943,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://paekun.hs.kr"
+}, {
+    "name": "범박고등학교",
+    "lat": 37.46768281,
+    "lng": 126.8117382,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://bbh-h.goebc.kr"
+}, {
+    "name": "대전법동중학교",
+    "lat": 36.36652684,
+    "lng": 127.4335276,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://beopdongms.djsch.kr/main.do"
+}, {
+    "name": "병점고등학교",
+    "lat": 37.20585454,
+    "lng": 127.0437159,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.byeongjeom.hs.kr"
+}, {
+    "name": "효청보건고등학교",
+    "lat": 35.67205616,
+    "lng": 129.3408545,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://school.gyo6.net/hyochung"
+}, {
+    "name": "보라고등학교",
+    "lat": 37.25145551,
+    "lng": 127.1105881,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://bora-h.goeyi.kr/"
+}, {
+    "name": "칠보고등학교",
+    "lat": 35.60478126,
+    "lng": 126.9919605,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://chilbo.hs.kr"
+}, {
+    "name": "대전복수고등학교",
+    "lat": 36.30377161,
+    "lng": 127.3735857,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://boksuhs.djsch.kr"
+}, {
+    "name": "창원봉림고등학교",
+    "lat": 35.24835895,
+    "lng": 128.6764645,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://bongrim-h.gne.go.kr/"
+}, {
+    "name": "봉명중학교",
+    "lat": 35.22758024,
+    "lng": 128.8630051,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://school.cbe.go.kr/bongmyeong-m"
+}, {
+    "name": "봉명중학교",
+    "lat": 36.6468051,
+    "lng": 127.4604183,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://school.cbe.go.kr/bongmyeong-m"
+}, {
+    "name": "봉명중학교",
+    "lat": 35.22758024,
+    "lng": 128.8630051,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://school.cbe.go.kr/bongmyeong-m"
+}, {
+    "name": "봉명중학교",
+    "lat": 36.6468051,
+    "lng": 127.4604183,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://school.cbe.go.kr/bongmyeong-m"
+}, {
+    "name": "봉명중학교",
+    "lat": 35.22758024,
+    "lng": 128.8630051,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://school.cbe.go.kr/bongmyeong-m"
+}, {
+    "name": "봉명중학교",
+    "lat": 36.6468051,
+    "lng": 127.4604183,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://school.cbe.go.kr/bongmyeong-m"
+}, {
+    "name": "봉명중학교",
+    "lat": 35.22758024,
+    "lng": 128.8630051,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://school.cbe.go.kr/bongmyeong-m"
+}, {
+    "name": "봉명중학교",
+    "lat": 36.6468051,
+    "lng": 127.4604183,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://school.cbe.go.kr/bongmyeong-m"
+}, {
+    "name": "대전봉우중학교",
+    "lat": 36.2984703,
+    "lng": 127.3327047,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "bongwooms.djsch.kr"
+}, {
+    "name": "부개고등학교",
+    "lat": 37.49221894,
+    "lng": 126.7380466,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://bugae.icehs.kr"
+}, {
+    "name": "부개여자고등학교",
+    "lat": 37.49791578,
+    "lng": 126.7410316,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://bugaegirl.icehs.kr"
+}, {
+    "name": "부경고등학교",
+    "lat": 35.1157788,
+    "lng": 129.0133065,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.saja.hs.kr/"
+}, {
+    "name": "부경고등학교",
+    "lat": 35.1157788,
+    "lng": 129.0133065,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.saja.hs.kr/"
+}, {
+    "name": "부경고등학교",
+    "lat": 35.1157788,
+    "lng": 129.0133065,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.saja.hs.kr/"
+}, {
+    "name": "부경고등학교",
+    "lat": 35.1157788,
+    "lng": 129.0133065,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.saja.hs.kr/"
+}, {
+    "name": "부산보건고등학교",
+    "lat": 35.0815515,
+    "lng": 129.0412838,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://busanhc.com"
+}, {
+    "name": "부산보건고등학교",
+    "lat": 35.0815515,
+    "lng": 129.0412838,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://busanhc.com"
+}, {
+    "name": "형곡고등학교",
+    "lat": 36.10150009,
+    "lng": 128.3384215,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/hyeonggokhs"
+}, {
+    "name": "부광중학교",
+    "lat": 37.50101254,
+    "lng": 126.7374688,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://bugwang.icems.kr"
+}, {
+    "name": "부산센텀여자고등학교",
+    "lat": 35.16591884,
+    "lng": 129.1443578,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://school.busanedu.net/busan-cg-h/main.do"
+}, {
+    "name": "부산관광고등학교",
+    "lat": 35.08250055,
+    "lng": 129.0222269,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://www.bstour.hs.kr"
+}, {
+    "name": "부산관광고등학교",
+    "lat": 35.08250055,
+    "lng": 129.0222269,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://www.bstour.hs.kr"
+}, {
+    "name": "부산국제고등학교",
+    "lat": 35.16722627,
+    "lng": 129.0234526,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://www.gukje.hs.kr"
+}, {
+    "name": "부산국제고등학교",
+    "lat": 35.16722627,
+    "lng": 129.0234526,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://www.gukje.hs.kr"
+}, {
+    "name": "부산국제고등학교",
+    "lat": 35.16722627,
+    "lng": 129.0234526,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://www.gukje.hs.kr"
+}, {
+    "name": "부산문화여자고등학교",
+    "lat": 35.16597407,
+    "lng": 129.1435338,
+    "gender": "여",
+    "type": "특성화고",
+    "url": "http://bs-moonhwa.hs.kr/"
+}, {
+    "name": "부산보건고등학교",
+    "lat": 35.0815515,
+    "lng": 129.0412838,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://busanhc.com"
+}, {
+    "name": "부산보건고등학교",
+    "lat": 35.0815515,
+    "lng": 129.0412838,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://busanhc.com"
+}, {
+    "name": "부산여자고등학교",
+    "lat": 35.11150068,
+    "lng": 128.9674864,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://busan-gh.hs.kr"
+}, {
+    "name": "부산여자상업고등학교",
+    "lat": 35.16902839999999,
+    "lng": 129.0963899,
+    "gender": "여",
+    "type": "특성화고",
+    "url": "http://psgch.hs.kr"
+}, {
+    "name": "부산여자중학교",
+    "lat": 35.12056195,
+    "lng": 129.0144572,
+    "gender": "여",
+    "type": "  ",
+    "url": "http://busan-gm.ms.kr"
+}, {
+    "name": "부산영상예술고등학교",
+    "lat": 35.08513613,
+    "lng": 129.0449175,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://visual.hs.kr/"
+}, {
+    "name": "부산영상예술고등학교",
+    "lat": 35.08513613,
+    "lng": 129.0449175,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://visual.hs.kr/"
+}, {
+    "name": "부산예술고등학교",
+    "lat": 35.24704234,
+    "lng": 129.0981972,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://pusanarts.hs.kr"
+}, {
+    "name": "부산예술고등학교",
+    "lat": 35.24704234,
+    "lng": 129.0981972,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://pusanarts.hs.kr"
+}, {
+    "name": "부산예술고등학교",
+    "lat": 35.24704234,
+    "lng": 129.0981972,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://pusanarts.hs.kr"
+}, {
+    "name": "부산예술고등학교",
+    "lat": 35.24704234,
+    "lng": 129.0981972,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://pusanarts.hs.kr"
+}, {
+    "name": "부산외국어고등학교",
+    "lat": 35.1833323,
+    "lng": 129.0976949,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://www.pfl.hs.kr"
+}, {
+    "name": "부산정보관광고등학교",
+    "lat": 35.22394897,
+    "lng": 129.0919103,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://www.pusan-ith.hs.kr/"
+}, {
+    "name": "부산정보관광고등학교",
+    "lat": 35.22394897,
+    "lng": 129.0919103,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://www.pusan-ith.hs.kr/"
+}, {
+    "name": "부산예술고등학교",
+    "lat": 35.24704234,
+    "lng": 129.0981972,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://pusanarts.hs.kr"
+}, {
+    "name": "부산예술고등학교",
+    "lat": 35.24704234,
+    "lng": 129.0981972,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://pusanarts.hs.kr"
+}, {
+    "name": "부용고등학교",
+    "lat": 37.73630575,
+    "lng": 127.0929481,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://buyong-h.goeujb.kr"
+}, {
+    "name": "부일외국어고등학교",
+    "lat": 35.09073609,
+    "lng": 129.0025604,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://www.puilschool.hs.kr"
+}, {
+    "name": "부일외국어고등학교",
+    "lat": 35.09073609,
+    "lng": 129.0025604,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://www.puilschool.hs.kr"
+}, {
+    "name": "부일외국어고등학교",
+    "lat": 35.09073609,
+    "lng": 129.0025604,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://www.puilschool.hs.kr"
+}, {
+    "name": "부일외국어고등학교",
+    "lat": 35.09073609,
+    "lng": 129.0025604,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://www.puilschool.hs.kr"
+}, {
+    "name": "부일외국어고등학교",
+    "lat": 35.09073609,
+    "lng": 129.0025604,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://www.puilschool.hs.kr"
+}, {
+    "name": "부일외국어고등학교",
+    "lat": 35.09073609,
+    "lng": 129.0025604,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://www.puilschool.hs.kr"
+}, {
+    "name": "부일전자디자인고등학교",
+    "lat": 35.09073609,
+    "lng": 129.0025604,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://www.buil.hs.kr"
+}, {
+    "name": "부일전자디자인고등학교",
+    "lat": 35.09073609,
+    "lng": 129.0025604,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://www.buil.hs.kr"
+}, {
+    "name": "부천북고등학교",
+    "lat": 37.51845054,
+    "lng": 126.7890343,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://bcb-h.goebc.kr/bcb-h/main.do"
+}, {
+    "name": "부천여자고등학교",
+    "lat": 37.48987335,
+    "lng": 126.7617479,
+    "gender": "여",
+    "type": "일반고",
+    "url": "pcg-h.goebc.kr"
+}, {
+    "name": "부흥고등학교",
+    "lat": 37.39330664,
+    "lng": 126.9446222,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.buhungko.hs.kr"
+}, {
+    "name": "부흥고등학교",
+    "lat": 35.17367376,
+    "lng": 129.180577,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.buhungko.hs.kr"
+}, {
+    "name": "부흥고등학교",
+    "lat": 37.39330664,
+    "lng": 126.9446222,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.buhungko.hs.kr"
+}, {
+    "name": "부흥고등학교",
+    "lat": 35.17367376,
+    "lng": 129.180577,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.buhungko.hs.kr"
+}, {
+    "name": "부흥고등학교",
+    "lat": 37.39330664,
+    "lng": 126.9446222,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.buhungko.hs.kr"
+}, {
+    "name": "부흥고등학교",
+    "lat": 35.17367376,
+    "lng": 129.180577,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.buhungko.hs.kr"
+}, {
+    "name": "부흥고등학교",
+    "lat": 37.39330664,
+    "lng": 126.9446222,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.buhungko.hs.kr"
+}, {
+    "name": "부흥고등학교",
+    "lat": 35.17367376,
+    "lng": 129.180577,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.buhungko.hs.kr"
+}, {
+    "name": "김해분성고등학교",
+    "lat": 35.26547784,
+    "lng": 128.8745534,
+    "gender": "남",
+    "type": "일반고",
+    "url": "https://bunsung-h.gne.go.kr/ "
+}, {
+    "name": "브니엘예술고등학교",
+    "lat": 35.25485306,
+    "lng": 129.1039264,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://www.penielart.or.kr/"
+}, {
+    "name": "브니엘예술고등학교",
+    "lat": 35.25485306,
+    "lng": 129.1039264,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://www.penielart.or.kr/"
+}, {
+    "name": "브니엘예술중학교",
+    "lat": 35.25485306,
+    "lng": 129.1039264,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://peniel.ms.kr"
+}, {
+    "name": "브니엘예술중학교",
+    "lat": 35.25485306,
+    "lng": 129.1039264,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://peniel.ms.kr"
+}, {
+    "name": "사곡고등학교",
+    "lat": 36.09685605,
+    "lng": 128.352797,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/sagok"
+}, {
+    "name": "김해삼방고등학교",
+    "lat": 35.25534178,
+    "lng": 128.9030254,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://ghsambang-h.gne.go.kr"
+}, {
+    "name": "삼성여자고등학교",
+    "lat": 35.09422497,
+    "lng": 128.9982328,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.samsung-g.hs.kr"
+}, {
+    "name": "삼성여자고등학교",
+    "lat": 33.25435707,
+    "lng": 126.5835744,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.samsung-g.hs.kr"
+}, {
+    "name": "삼일고등학교",
+    "lat": 37.432476,
+    "lng": 129.1652028,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "www.samil.hs.kr"
+}, {
+    "name": "삼일고등학교",
+    "lat": 37.28638393,
+    "lng": 127.0196791,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "www.samil.hs.kr"
+}, {
+    "name": "삼일공업고등학교",
+    "lat": 37.28554473,
+    "lng": 127.0205554,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "www.samil-th.or.kr"
+}, {
+    "name": "삼정고등학교",
+    "lat": 35.19360082,
+    "lng": 129.0100284,
+    "gender": "여",
+    "type": "일반고",
+    "url": "www.sj.hs.kr"
+}, {
+    "name": "삼정고등학교",
+    "lat": 35.19360082,
+    "lng": 129.0100284,
+    "gender": "여",
+    "type": "일반고",
+    "url": "www.sj.hs.kr"
+}, {
+    "name": "삼정고등학교",
+    "lat": 35.19360082,
+    "lng": 129.0100284,
+    "gender": "여",
+    "type": "일반고",
+    "url": "www.sj.hs.kr"
+}, {
+    "name": "원삼중학교",
+    "lat": 37.16816305,
+    "lng": 127.3093127,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "wonsam-m.goeyi.kr"
+}, {
+    "name": "삼천포중학교",
+    "lat": 34.94270825,
+    "lng": 128.0848167,
+    "gender": "남",
+    "type": " ",
+    "url": "samcheonpo-m.gne.go.kr"
+}, {
+    "name": "웅상고등학교",
+    "lat": 35.37814867,
+    "lng": 129.1450388,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://ungsang-h.gne.go.kr"
+}, {
+    "name": "상모고등학교",
+    "lat": 36.08449575,
+    "lng": 128.351716,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/sangmohs"
+}, {
+    "name": "상암고등학교",
+    "lat": 37.58138322,
+    "lng": 126.8833945,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.sangam.hs.kr"
+}, {
+    "name": "상일여자고등학교",
+    "lat": 37.54858748,
+    "lng": 127.1708235,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://sangil.hs.kr"
+}, {
+    "name": "상일여자고등학교",
+    "lat": 35.15878307,
+    "lng": 126.8644416,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://sangil.hs.kr"
+}, {
+    "name": "새론중학교",
+    "lat": 35.87917295,
+    "lng": 128.7250938,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://www.saeron.dge.ms.kr"
+}, {
+    "name": "천안새샘중학교",
+    "lat": 36.77625095,
+    "lng": 127.1378975,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://css.caems.kr"
+}, {
+    "name": "연수고등학교",
+    "lat": 37.41173562,
+    "lng": 126.6801271,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://yeonsu-h.icehs.kr/main.do"
+}, {
+    "name": "여주고등학교",
+    "lat": 37.27191005,
+    "lng": 127.6326848,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://yeoju-h.goeyj.kr"
+}, {
+    "name": "서산여자고등학교",
+    "lat": 36.77032528,
+    "lng": 126.4676572,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://seosangs.cnehs.kr"
+}, {
+    "name": "서산여자중학교",
+    "lat": 36.76881764,
+    "lng": 126.4668512,
+    "gender": "여",
+    "type": "  ",
+    "url": "http://seosangs.cnems.kr"
+}, {
+    "name": "서일여자고등학교",
+    "lat": 36.29429961,
+    "lng": 127.3235457,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://seoil-ghs.djsch.kr"
+}, {
+    "name": "서연고등학교",
+    "lat": 37.16081906,
+    "lng": 127.1114322,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://seoyeon.hs.kr/"
+}, {
+    "name": "서운고등학교",
+    "lat": 37.52691454,
+    "lng": 126.7457474,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://seowoon.icehs.kr"
+}, {
+    "name": "서울디자인고등학교",
+    "lat": 37.54670177,
+    "lng": 126.9469053,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://www.seodi.hs.kr"
+}, {
+    "name": "서인천고등학교",
+    "lat": 37.56108344,
+    "lng": 126.675771,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://sic.icehs.kr"
+}, {
+    "name": "서일고등학교",
+    "lat": 36.29332636,
+    "lng": 127.3236362,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://seoilhs.djsch.kr"
+}, {
+    "name": "서일고등학교",
+    "lat": 36.85930055,
+    "lng": 126.4324993,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://seoilhs.djsch.kr"
+}, {
+    "name": "서일고등학교",
+    "lat": 36.29332636,
+    "lng": 127.3236362,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://seoilhs.djsch.kr"
+}, {
+    "name": "서일고등학교",
+    "lat": 36.85930055,
+    "lng": 126.4324993,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://seoilhs.djsch.kr"
+}, {
+    "name": "서일여자고등학교",
+    "lat": 36.29429961,
+    "lng": 127.3235457,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://seoil-ghs.djsch.kr"
+}, {
+    "name": "서창고등학교",
+    "lat": 35.41400251,
+    "lng": 129.1741433,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://sc-h.gne.go.kr/"
+}, {
+    "name": "서해고등학교",
+    "lat": 37.36050976,
+    "lng": 126.7239075,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.seohae.hs.kr"
+}, {
+    "name": "현풍고등학교",
+    "lat": 35.6985296,
+    "lng": 128.4382371,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "hyunpung.dge.hs.kr"
+}, {
+    "name": "백석고등학교",
+    "lat": 37.6529063,
+    "lng": 126.7869189,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://i-baekseok.icehs.kr/"
+}, {
+    "name": "백석고등학교",
+    "lat": 37.58060358,
+    "lng": 126.6742921,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://i-baekseok.icehs.kr/"
+}, {
+    "name": "백석고등학교",
+    "lat": 37.6529063,
+    "lng": 126.7869189,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://i-baekseok.icehs.kr/"
+}, {
+    "name": "백석고등학교",
+    "lat": 37.58060358,
+    "lng": 126.6742921,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://i-baekseok.icehs.kr/"
+}, {
+    "name": "서산석림중학교",
+    "lat": 36.77382862,
+    "lng": 126.4685068,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://seokrim.cnems.kr"
+}, {
+    "name": "석정여자고등학교",
+    "lat": 37.18016344,
+    "lng": 128.4599183,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://sj.icehs.kr/"
+}, {
+    "name": "석정여자고등학교",
+    "lat": 37.46866507,
+    "lng": 126.694192,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://sj.icehs.kr/"
+}, {
+    "name": "호원중학교",
+    "lat": 37.71929926,
+    "lng": 127.0446514,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "howon-m.goeujb.kr"
+}, {
+    "name": "영선고등학교",
+    "lat": 35.41422378,
+    "lng": 126.5580061,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://youngsun.hs.kr"
+}, {
+    "name": "선사고등학교",
+    "lat": 37.55631588,
+    "lng": 127.1357998,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.sunsa.hs.kr"
+}, {
+    "name": "선주고등학교",
+    "lat": 36.14176382,
+    "lng": 128.3122513,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/seonjuhs"
+}, {
+    "name": "성광중학교",
+    "lat": 35.9075717,
+    "lng": 128.6242288,
+    "gender": "남",
+    "type": " ",
+    "url": "http://seonggwang.dge.ms.kr"
+}, {
+    "name": "성내중학교",
+    "lat": 35.54309223,
+    "lng": 126.7444702,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://seongnae.sen.ms.kr"
+}, {
+    "name": "성내중학교",
+    "lat": 37.52906191,
+    "lng": 127.1291173,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://seongnae.sen.ms.kr"
+}, {
+    "name": "성덕고등학교",
+    "lat": 35.19585015,
+    "lng": 126.8174891,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://ssd.hs.kr"
+}, {
+    "name": "성덕고등학교",
+    "lat": 37.54996367,
+    "lng": 127.1419039,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://ssd.hs.kr"
+}, {
+    "name": "성덕중학교",
+    "lat": 35.19561959,
+    "lng": 126.8164213,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://seongdeok.gen.ms.kr"
+}, {
+    "name": "성덕중학교",
+    "lat": 36.38693177,
+    "lng": 127.3445355,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://seongdeok.gen.ms.kr"
+}, {
+    "name": "성모여자고등학교",
+    "lat": 35.16726136,
+    "lng": 129.072124,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://sung-mo.hs.kr"
+}, {
+    "name": "성모여자고등학교",
+    "lat": 35.16726136,
+    "lng": 129.072124,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://sung-mo.hs.kr"
+}, {
+    "name": "유성고등학교",
+    "lat": 36.34921738,
+    "lng": 127.334775,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://yshs.djsch.kr"
+}, {
+    "name": "유성고등학교",
+    "lat": 36.34921738,
+    "lng": 127.334775,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://yshs.djsch.kr"
+}, {
+    "name": "성일여자고등학교",
+    "lat": 35.08949951,
+    "lng": 128.9800626,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://sungil-g.hs.kr"
+}, {
+    "name": "성지고등학교",
+    "lat": 35.12880982,
+    "lng": 129.0806464,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.bssj.hs.kr"
+}, {
+    "name": "성지고등학교",
+    "lat": 37.27228468,
+    "lng": 127.1312675,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.bssj.hs.kr"
+}, {
+    "name": "합포고등학교",
+    "lat": 35.20941219,
+    "lng": 128.5643386,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://happo-h.gne.go.kr/"
+}, {
+    "name": "성화중학교",
+    "lat": 36.61741372,
+    "lng": 127.459426,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://sunghwa.dge.ms.kr"
+}, {
+    "name": "성화중학교",
+    "lat": 35.9032298,
+    "lng": 128.620265,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://sunghwa.dge.ms.kr"
+}, {
+    "name": "성희여자고등학교",
+    "lat": 36.55153109,
+    "lng": 128.7291442,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/seonghui"
+}, {
+    "name": "세륜중학교",
+    "lat": 37.50893314,
+    "lng": 127.1312464,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://seryun.sen.ms.kr"
+}, {
+    "name": "세원고등학교",
+    "lat": 37.67146934,
+    "lng": 126.8033476,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.sewon.hs.kr"
+}, {
+    "name": "세정고등학교",
+    "lat": 35.16997026,
+    "lng": 129.0793616,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "www.sejeong.hs.kr"
+}, {
+    "name": "센텀고등학교",
+    "lat": 35.17710343,
+    "lng": 129.1269806,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://school.busanedu.net"
+}, {
+    "name": "소래중학교",
+    "lat": 37.43735861,
+    "lng": 126.7967625,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://sorae.ms.kr"
+}, {
+    "name": "소명여자고등학교",
+    "lat": 37.48782298,
+    "lng": 126.7913100325,
+    "gender": "여",
+    "type": "일반고",
+    "url": "https://somyong-h.goebc.kr"
+}, {
+    "name": "소사고등학교",
+    "lat": 37.46496623,
+    "lng": 126.8001855,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://sosa-h.goebc.kr"
+}, {
+    "name": "우송고등학교",
+    "lat": 36.33562875,
+    "lng": 127.4428489,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://wshs.djsch.kr"
+}, {
+    "name": "송양중학교",
+    "lat": 37.75172729,
+    "lng": 127.1044225,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "https://songyang-m.goeujb.kr"
+}, {
+    "name": "대전송촌고등학교",
+    "lat": 36.36346301,
+    "lng": 127.4459274,
+    "gender": "남여공학",
+    "type": "자율고",
+    "url": "http://songchonhs.djsch.kr"
+}, {
+    "name": "대전송촌중학교",
+    "lat": 36.36405796,
+    "lng": 127.4434344,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://songchonms.djsch.kr"
+}, {
+    "name": "송현여자고등학교",
+    "lat": 35.83112106,
+    "lng": 128.5462157,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://songhyun.dge.hs.kr"
+}, {
+    "name": "호원고등학교",
+    "lat": 37.70560206,
+    "lng": 127.0443246,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://howon-h.goeujb.kr"
+}, {
+    "name": "김해수남고등학교",
+    "lat": 35.16822931,
+    "lng": 128.8167315,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://ghsunam-h.gne.go.kr/"
+}, {
+    "name": "연수고등학교",
+    "lat": 37.41173562,
+    "lng": 126.6801271,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://yeonsu-h.icehs.kr/main.do"
+}, {
+    "name": "연수중학교",
+    "lat": 37.41679495,
+    "lng": 126.6864287,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://yeonsu.icems.kr"
+}, {
+    "name": "수리고등학교",
+    "lat": 37.35526201,
+    "lng": 126.9197712,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.suri.hs.kr"
+}, {
+    "name": "수명중학교",
+    "lat": 37.54856699,
+    "lng": 126.8240596,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://sumyeong.ms.kr"
+}, {
+    "name": "수원공업고등학교",
+    "lat": 37.27423255,
+    "lng": 127.0245216,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "www.sugong.org"
+}, {
+    "name": "연수여자고등학교",
+    "lat": 37.41103535,
+    "lng": 126.6723295,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://yeonsug.icehs.kr"
+}, {
+    "name": "수원외국어고등학교",
+    "lat": 37.2960025,
+    "lng": 127.0350319,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "www.sawl.hs.kr"
+}, {
+    "name": "숙지고등학교",
+    "lat": 37.28296783,
+    "lng": 126.9932658,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "sukji-h.goesw.kr/"
+}, {
+    "name": "숭덕여자고등학교",
+    "lat": 37.46428211,
+    "lng": 126.7339171,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://soongduk.icehs.kr"
+}, {
+    "name": "시온고등학교",
+    "lat": 37.47148659,
+    "lng": 126.8051061,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://zion-h.goebc.kr"
+}, {
+    "name": "신갈고등학교",
+    "lat": 37.26975906,
+    "lng": 127.1113065,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "shingal-h.goeyi.kr"
+}, {
+    "name": "신기중학교",
+    "lat": 37.37908069,
+    "lng": 126.9588302,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://singi.dge.ms.kr"
+}, {
+    "name": "신기중학교",
+    "lat": 35.86816727,
+    "lng": 128.7023577,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://singi.dge.ms.kr"
+}, {
+    "name": "천안신당고등학교",
+    "lat": 36.85148352,
+    "lng": 127.1597115,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.casd.caehs.kr"
+}, {
+    "name": "신도고등학교",
+    "lat": 37.62913251,
+    "lng": 126.9187486,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.sindo.hs.kr"
+}, {
+    "name": "신도고등학교",
+    "lat": 35.17207941,
+    "lng": 129.1674214,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.sindo.hs.kr"
+}, {
+    "name": "신도고등학교",
+    "lat": 37.62913251,
+    "lng": 126.9187486,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.sindo.hs.kr"
+}, {
+    "name": "신도고등학교",
+    "lat": 35.17207941,
+    "lng": 129.1674214,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.sindo.hs.kr"
+}, {
+    "name": "신방학중학교",
+    "lat": 37.66414043,
+    "lng": 127.028899,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://www.sbh.ms.kr"
+}, {
+    "name": "신언중학교",
+    "lat": 35.56747899,
+    "lng": 129.1137675,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://www.sineon.ms.kr"
+}, {
+    "name": "신일고등학교",
+    "lat": 37.62796722,
+    "lng": 127.0284031,
+    "gender": "남",
+    "type": "자율고",
+    "url": "http://www.shin-il.hs.kr"
+}, {
+    "name": "신천중학교",
+    "lat": 37.43428739,
+    "lng": 126.782428,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "scm.sen.ms.kr"
+}, {
+    "name": "신천중학교",
+    "lat": 37.51625001,
+    "lng": 127.0792834,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "scm.sen.ms.kr"
+}, {
+    "name": "신탄진고등학교",
+    "lat": 36.44970668,
+    "lng": 127.4359505,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://shintanjinhs.djsch.kr"
+}, {
+    "name": "심원고등학교",
+    "lat": 37.50469091,
+    "lng": 126.7791341,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.shimwon.hs.kr"
+}, {
+    "name": "심원중학교",
+    "lat": 37.49986182,
+    "lng": 126.7827908,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "https://shimwon-m.goebc.kr"
+}, {
+    "name": "심원중학교",
+    "lat": 35.52028349,
+    "lng": 126.5485883,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "https://shimwon-m.goebc.kr"
+}, {
+    "name": "천안쌍용고등학교",
+    "lat": 36.78875649,
+    "lng": 127.114008,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://sy.caehs.kr"
+}, {
+    "name": "안산강서고등학교",
+    "lat": 37.33479362,
+    "lng": 126.8179386,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.asgs.hs.kr"
+}, {
+    "name": "안산강서고등학교",
+    "lat": 37.33479362,
+    "lng": 126.8179386,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.asgs.hs.kr"
+}, {
+    "name": "안심중학교",
+    "lat": 35.86674984,
+    "lng": 128.7092322,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "https://ansim.dge.ms.kr"
+}, {
+    "name": "양산고등학교",
+    "lat": 35.34866256,
+    "lng": 129.0445079,
+    "gender": "남",
+    "type": "일반고",
+    "url": "https://yangsan-h.gne.go.kr"
+}, {
+    "name": "화홍고등학교",
+    "lat": 37.2517435,
+    "lng": 127.0402944,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.hwahong.hs.kr"
+}, {
+    "name": "천안여자고등학교",
+    "lat": 36.77872802,
+    "lng": 127.1692327,
+    "gender": "여",
+    "type": "일반고",
+    "url": "www.cag.caehs.kr"
+}, {
+    "name": "양강중학교",
+    "lat": 37.52491016,
+    "lng": 126.849688,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://www.yangkang.ms.kr"
+}, {
+    "name": "양동여자중학교",
+    "lat": 35.1701929,
+    "lng": 129.0810001,
+    "gender": "여",
+    "type": " ",
+    "url": "http://www.yangdong-gm.ms.kr"
+}, {
+    "name": "인명여자고등학교",
+    "lat": 37.44037081,
+    "lng": 126.6972234,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://inmyong.icehs.kr"
+}, {
+    "name": "양산여자고등학교",
+    "lat": 35.34455592,
+    "lng": 129.0250861,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://yangsan-g-h.gne.go.kr"
+}, {
+    "name": "양산고등학교",
+    "lat": 35.34866256,
+    "lng": 129.0445079,
+    "gender": "남",
+    "type": "일반고",
+    "url": "https://yangsan-h.gne.go.kr"
+}, {
+    "name": "천안업성고등학교",
+    "lat": 36.86166638,
+    "lng": 127.1379306,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.upsung.caehs.kr/"
+}, {
+    "name": "여주고등학교",
+    "lat": 37.27191005,
+    "lng": 127.6326848,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://yeoju-h.goeyj.kr"
+}, {
+    "name": "연수여자고등학교",
+    "lat": 37.41103535,
+    "lng": 126.6723295,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://yeonsug.icehs.kr"
+}, {
+    "name": "영남공업고등학교",
+    "lat": 35.84842817,
+    "lng": 128.6469293,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://www.ynth.hs.kr"
+}, {
+    "name": "영덕고등학교",
+    "lat": 36.41488843,
+    "lng": 129.3679427,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.yeongdeok.hs.kr"
+}, {
+    "name": "영덕고등학교",
+    "lat": 37.25242219,
+    "lng": 127.0684717,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.yeongdeok.hs.kr"
+}, {
+    "name": "영도여자고등학교",
+    "lat": 35.07352806,
+    "lng": 129.0659942,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.yeongdo.hs.kr"
+}, {
+    "name": "영도여자고등학교",
+    "lat": 35.07352806,
+    "lng": 129.0659942,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.yeongdo.hs.kr"
+}, {
+    "name": "영도여자고등학교",
+    "lat": 35.07352806,
+    "lng": 129.0659942,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.yeongdo.hs.kr"
+}, {
+    "name": "영복여자고등학교",
+    "lat": 37.28562481,
+    "lng": 127.0016721,
+    "gender": "여",
+    "type": "일반고",
+    "url": "www.youngbok.or.kr"
+}, {
+    "name": "영산고등학교",
+    "lat": 35.4596521,
+    "lng": 128.5281631,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://ysh.hs.kr"
+}, {
+    "name": "영산고등학교",
+    "lat": 35.22605862,
+    "lng": 129.1554497,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://ysh.hs.kr"
+}, {
+    "name": "영산고등학교",
+    "lat": 35.00894093,
+    "lng": 126.7139419,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://ysh.hs.kr"
+}, {
+    "name": "영생고등학교",
+    "lat": 37.30473311,
+    "lng": 126.9742361,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://myys-h.goesw.kr"
+}, {
+    "name": "영선중학교",
+    "lat": 35.41426005,
+    "lng": 126.5580061,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://www.ysite.ms.kr/"
+}, {
+    "name": "영신고등학교",
+    "lat": 35.92000422,
+    "lng": 128.646424,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.ysh.or.kr"
+}, {
+    "name": "영신고등학교",
+    "lat": 37.49810094,
+    "lng": 126.909739,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.ysh.or.kr"
+}, {
+    "name": "영신여자고등학교",
+    "lat": 37.2419379,
+    "lng": 126.9669823,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://ys.sen.hs.kr"
+}, {
+    "name": "영신여자고등학교",
+    "lat": 37.65245208,
+    "lng": 127.0832893,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://ys.sen.hs.kr"
+}, {
+    "name": "김해영운고등학교",
+    "lat": 35.25467462,
+    "lng": 128.9057183,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://ghyeongun-h.gne.go.kr"
+}, {
+    "name": "영화국제관광고등학교",
+    "lat": 37.47139745,
+    "lng": 126.6403955,
+    "gender": "여",
+    "type": "특성화고",
+    "url": "http://younghwa.icehs.kr"
+}, {
+    "name": "영화국제관광고등학교",
+    "lat": 37.47139745,
+    "lng": 126.6403955,
+    "gender": "여",
+    "type": "특성화고",
+    "url": "http://younghwa.icehs.kr"
+}, {
+    "name": "영화국제관광고등학교",
+    "lat": 37.47139745,
+    "lng": 126.6403955,
+    "gender": "여",
+    "type": "특성화고",
+    "url": "http://younghwa.icehs.kr"
+}, {
+    "name": "인천예일고등학교",
+    "lat": 37.55422032,
+    "lng": 126.7418712,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://yeil.icehs.kr"
+}, {
+    "name": "오금고등학교",
+    "lat": 37.50453217,
+    "lng": 127.128969,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://ogeum.sen.hs.kr"
+}, {
+    "name": "오금중학교",
+    "lat": 37.50527064,
+    "lng": 127.1288011,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://www.ogeum.ms.kr"
+}, {
+    "name": "오상고등학교",
+    "lat": 36.12502535,
+    "lng": 128.4961942,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/osanghs"
+}, {
+    "name": "오성고등학교",
+    "lat": 35.85447266,
+    "lng": 128.6447837,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://www.osung.hs.kr"
+}, {
+    "name": "옥계중학교",
+    "lat": 37.60274801,
+    "lng": 129.0331651,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://okgye.gwe.ms.kr/"
+}, {
+    "name": "옥계중학교",
+    "lat": 36.13852781,
+    "lng": 128.410856,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://okgye.gwe.ms.kr/"
+}, {
+    "name": "와룡고등학교",
+    "lat": 35.86137993,
+    "lng": 128.5036794,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://waryong.dge.hs.kr"
+}, {
+    "name": "용곡중학교",
+    "lat": 37.56595126,
+    "lng": 127.0890896,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://yonggok.sen.ms.kr/index.do"
+}, {
+    "name": "용호고등학교",
+    "lat": 37.3418258,
+    "lng": 126.9393348,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.yongho.hs.kr"
+}, {
+    "name": "우송고등학교",
+    "lat": 36.33562875,
+    "lng": 127.4428489,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://wshs.djsch.kr"
+}, {
+    "name": "웅상고등학교",
+    "lat": 35.37814867,
+    "lng": 129.1450388,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://ungsang-h.gne.go.kr"
+}, {
+    "name": "웅상고등학교",
+    "lat": 35.37814867,
+    "lng": 129.1450388,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://ungsang-h.gne.go.kr"
+}, {
+    "name": "수원제일중학교",
+    "lat": 37.28713514,
+    "lng": 127.0008026,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://suwonjeil-m.goesw.kr"
+}, {
+    "name": "원종고등학교",
+    "lat": 37.52849582,
+    "lng": 126.8004974,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "wonjong-h.goebc.kr"
+}, {
+    "name": "월암중학교",
+    "lat": 35.82716419,
+    "lng": 128.5238094,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "https://wolam.dge.ms.kr"
+}, {
+    "name": "유성고등학교",
+    "lat": 36.34921738,
+    "lng": 127.334775,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://yshs.djsch.kr"
+}, {
+    "name": "유성생명과학고등학교",
+    "lat": 36.34823957,
+    "lng": 127.3284216,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://ysbsths.djsch.kr/"
+}, {
+    "name": "유성중학교",
+    "lat": 36.34589364,
+    "lng": 127.3347496,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://yuseongms.djsch.kr"
+}, {
+    "name": "율원중학교",
+    "lat": 35.86138631,
+    "lng": 128.7018721,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://dgyw.dge.ms.kr"
+}, {
+    "name": "김해율하고등학교",
+    "lat": 35.17410353,
+    "lng": 128.8069805,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "gimhaeyulha-h.gne.go.kr"
+}, {
+    "name": "율하중학교",
+    "lat": 35.17508098,
+    "lng": 128.808001,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://yulha-m.gne.go.kr"
+}, {
+    "name": "은평고등학교",
+    "lat": 37.60984462,
+    "lng": 126.9057368,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://ep.sen.hs.kr"
+}, {
+    "name": "은평중학교",
+    "lat": 37.61061869,
+    "lng": 126.9083472,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://www.eunpyeong.ms.kr"
+}, {
+    "name": "응곡중학교",
+    "lat": 37.38077945,
+    "lng": 126.7832803,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://eunggok.ms.kr/"
+}, {
+    "name": "의정부광동고등학교",
+    "lat": 37.75554366,
+    "lng": 127.036201,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://ukd-h.goeujb.kr "
+}, {
+    "name": "의정부광동고등학교",
+    "lat": 37.75554366,
+    "lng": 127.036201,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://ukd-h.goeujb.kr "
+}, {
+    "name": "의정부중앙초등학교",
+    "lat": 37.7450791,
+    "lng": 127.0469421,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "https://joongang-e.goeujb.kr"
+}, {
+    "name": "이순신고등학교",
+    "lat": 36.78292183,
+    "lng": 127.0988157,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://yisunsin.cnehs.kr"
+}, {
+    "name": "이의고등학교",
+    "lat": 37.29235868,
+    "lng": 127.0711898,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://iui.hs.kr"
+}, {
+    "name": "이일여자고등학교",
+    "lat": 35.93458743,
+    "lng": 126.9489825,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.21.hs.kr"
+}, {
+    "name": "이화여자고등학교",
+    "lat": 37.56617664,
+    "lng": 126.9713244,
+    "gender": "여",
+    "type": "자율고",
+    "url": "http://www.ewha.hs.kr"
+}, {
+    "name": "인덕원고등학교",
+    "lat": 37.39997331,
+    "lng": 126.981096,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://indeogwon.hs.kr/"
+}, {
+    "name": "인덕원중학교",
+    "lat": 37.40224961,
+    "lng": 126.9714242,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "indeogwon.ms.kr"
+}, {
+    "name": "인명여자고등학교",
+    "lat": 37.44037081,
+    "lng": 126.6972234,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://inmyong.icehs.kr"
+}, {
+    "name": "인천디자인고등학교",
+    "lat": 37.54822343,
+    "lng": 126.6714899,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://indigo.icehs.kr"
+}, {
+    "name": "인천뷰티예술고등학교",
+    "lat": 37.40393222,
+    "lng": 126.6713019,
+    "gender": "여",
+    "type": "특성화고",
+    "url": "http://ibas.icehs.kr"
+}, {
+    "name": "인천여자고등학교",
+    "lat": 37.42188142,
+    "lng": 126.6903145,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://incheon-gh.icehs.kr"
+}, {
+    "name": "인천체육고등학교",
+    "lat": 37.54592504,
+    "lng": 126.6094512,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://phed.icehs.kr"
+}, {
+    "name": "잠실여자고등학교",
+    "lat": 37.50179413,
+    "lng": 127.1142413,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.jamsilg.hs.kr"
+}, {
+    "name": "장기고등학교",
+    "lat": 37.64014174,
+    "lng": 126.6682283,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://janggi.hs.kr "
+}, {
+    "name": "장유고등학교",
+    "lat": 35.20208744,
+    "lng": 128.8039204,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://jangyu-h.gne.go.kr"
+}, {
+    "name": "저동고등학교",
+    "lat": 37.67086575,
+    "lng": 126.7790577,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.jeodong.hs.kr/"
+}, {
+    "name": "저현고등학교",
+    "lat": 37.67779541,
+    "lng": 126.8159566,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://jeohyeon.hs.kr"
+}, {
+    "name": "저현고등학교",
+    "lat": 37.67779541,
+    "lng": 126.8159566,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://jeohyeon.hs.kr"
+}, {
+    "name": "대전전민고등학교",
+    "lat": 36.39833683,
+    "lng": 127.3983327,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://jeonminhs.djsch.kr"
+}, {
+    "name": "죽전고등학교",
+    "lat": 37.33263026,
+    "lng": 127.1060548,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "jukjeon-h.goeyi.kr"
+}, {
+    "name": "정발고등학교",
+    "lat": 37.66365025,
+    "lng": 126.7861372,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.jeongbal.hs.kr"
+}, {
+    "name": "정왕고등학교",
+    "lat": 37.35044006,
+    "lng": 126.7284476,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.jwg.hs.kr"
+}, {
+    "name": "제물포여자중학교",
+    "lat": 37.44914564,
+    "lng": 126.6882045,
+    "gender": "여",
+    "type": "  ",
+    "url": "http://jmp.icems.kr"
+}, {
+    "name": "제일고등학교",
+    "lat": 37.478222,
+    "lng": 126.7083763,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://jeilgo.icehs.kr/main.do"
+}, {
+    "name": "제일고등학교",
+    "lat": 37.478222,
+    "lng": 126.7083763,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://jeilgo.icehs.kr/main.do"
+}, {
+    "name": "제주중앙여자고등학교",
+    "lat": 33.49130755,
+    "lng": 126.539486,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://jungang.jje.hs.kr"
+}, {
+    "name": "제주동여자중학교",
+    "lat": 33.50271672,
+    "lng": 126.541031,
+    "gender": "여",
+    "type": " ",
+    "url": "http://hansol.jje.ms.kr"
+}, {
+    "name": "수리고등학교",
+    "lat": 37.35526201,
+    "lng": 126.9197712,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.suri.hs.kr"
+}, {
+    "name": "주례여자고등학교",
+    "lat": 35.14536511,
+    "lng": 129.0135597,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://jurye.hs.kr"
+}, {
+    "name": "주례여자고등학교",
+    "lat": 35.14536511,
+    "lng": 129.0135597,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://jurye.hs.kr"
+}, {
+    "name": "주엽고등학교",
+    "lat": 37.67610348,
+    "lng": 126.754359,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "jygo.net"
+}, {
+    "name": "중앙여자고등학교",
+    "lat": 37.56317672,
+    "lng": 126.9540593,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://jungang-girls.sen.hs.kr"
+}, {
+    "name": "중앙여자고등학교",
+    "lat": 37.56317672,
+    "lng": 126.9540593,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://jungang-girls.sen.hs.kr"
+}, {
+    "name": "중앙여자고등학교",
+    "lat": 37.56317672,
+    "lng": 126.9540593,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://jungang-girls.sen.hs.kr"
+}, {
+    "name": "중원고등학교",
+    "lat": 37.51156679,
+    "lng": 126.7622256,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.jungwon.hs.kr"
+}, {
+    "name": "중일고등학교",
+    "lat": 36.42052491,
+    "lng": 127.3886965,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://jungilhs.djsch.kr"
+}, {
+    "name": "중흥고등학교",
+    "lat": 37.5086048,
+    "lng": 126.7686695,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://jh.hs.kr"
+}, {
+    "name": "대전지족고등학교",
+    "lat": 36.37803212,
+    "lng": 127.3156568,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://jijokhs.djsch.kr"
+}, {
+    "name": "진여자상업고등학교",
+    "lat": 35.1701112,
+    "lng": 129.0728365,
+    "gender": "",
+    "type": "",
+    "url": ""
+}, {
+    "name": "창덕여자고등학교",
+    "lat": 37.51624351,
+    "lng": 127.1402736,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://changduk.sen.hs.kr"
+}, {
+    "name": "창현고등학교",
+    "lat": 37.28490893,
+    "lng": 127.0418566,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.changhyun.org"
+}, {
+    "name": "천보중학교",
+    "lat": 37.75069397,
+    "lng": 127.0650305,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "https://chunbo-m.goeujb.kr/"
+}, {
+    "name": "포천고등학교",
+    "lat": 37.89142616,
+    "lng": 127.1923465,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.pocheon.hs.kr"
+}, {
+    "name": "천안여자고등학교",
+    "lat": 36.77872802,
+    "lng": 127.1692327,
+    "gender": "여",
+    "type": "일반고",
+    "url": "www.cag.caehs.kr"
+}, {
+    "name": "천안여자상업고등학교",
+    "lat": 36.8031652,
+    "lng": 127.1342472,
+    "gender": "여",
+    "type": "특성화고",
+    "url": "http://cays.caehs.kr"
+}, {
+    "name": "천일중학교",
+    "lat": 37.54590987,
+    "lng": 127.1276362,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://www.cheonil.ms.kr"
+}, {
+    "name": "천천고등학교",
+    "lat": 37.29945329,
+    "lng": 126.982976,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "cheoncheon.hs.kr"
+}, {
+    "name": "천호중학교",
+    "lat": 37.54651926,
+    "lng": 127.139698,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://www.cheonho.ms.kr"
+}, {
+    "name": "철산중학교",
+    "lat": 37.47030832,
+    "lng": 126.8753237,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "www.cheolsan.ms.kr"
+}, {
+    "name": "청라중학교",
+    "lat": 36.38888916,
+    "lng": 126.6622666,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://www.chungra.cnems.kr"
+}, {
+    "name": "청란여자고등학교",
+    "lat": 36.31073792,
+    "lng": 127.4295277,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://chranhs.djsch.kr"
+}, {
+    "name": "청명고등학교",
+    "lat": 37.26089042,
+    "lng": 127.0773249,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.cm-h.hs.kr"
+}, {
+    "name": "충주대원고등학교",
+    "lat": 36.97133328,
+    "lng": 127.951823,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://www.daewon.hs.kr"
+}, {
+    "name": "칠보고등학교",
+    "lat": 35.60478126,
+    "lng": 126.9919605,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://chilbo.hs.kr"
+}, {
+    "name": "서울컨벤션고등학교",
+    "lat": 37.5592845,
+    "lng": 127.1580303,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "http://seoul-chs.sen.hs.kr"
+}, {
+    "name": "대전과학고등학교",
+    "lat": 36.37419466,
+    "lng": 127.3714358,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://djshs.djsch.kr"
+}, {
+    "name": "태장고등학교",
+    "lat": 37.24936938,
+    "lng": 127.0594286,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.taejang.hs.kr"
+}, {
+    "name": "한영고등학교",
+    "lat": 37.54913153,
+    "lng": 127.1577731,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://hanyoung.hs.kr"
+}, {
+    "name": "한영고등학교",
+    "lat": 34.75371344,
+    "lng": 127.714897,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://hanyoung.hs.kr"
+}, {
+    "name": "포천고등학교",
+    "lat": 37.89142616,
+    "lng": 127.1923465,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.pocheon.hs.kr"
+}, {
+    "name": "마곡하늬중학교",
+    "lat": 37.55812766,
+    "lng": 126.8209848,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://magokhanui.sen.ms.kr"
+}, {
+    "name": "하단중학교",
+    "lat": 35.11106623,
+    "lng": 128.9599891,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "https://school.busanedu.net/hadan-m/main.do"
+}, {
+    "name": "하안북중학교",
+    "lat": 37.46508438,
+    "lng": 126.8677256,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "www.haanbuk.ms.kr"
+}, {
+    "name": "하안중학교",
+    "lat": 37.46738575,
+    "lng": 126.8807721,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://haan.ms.kr"
+}, {
+    "name": "학남고등학교",
+    "lat": 35.94627087,
+    "lng": 128.5691977,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://haknam.dge.hs.kr"
+}, {
+    "name": "학산여자고등학교",
+    "lat": 35.20644229,
+    "lng": 129.0965495,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.hsgh.hs.kr"
+}, {
+    "name": "학익여자고등학교",
+    "lat": 37.44381933,
+    "lng": 126.6753484,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://hakikgh.icehs.kr"
+}, {
+    "name": "한일중학교",
+    "lat": 36.93614885,
+    "lng": 127.6852495,
+    "gender": "남",
+    "type": "  ",
+    "url": "school.cbe.go.kr/hanil-m/"
+}, {
+    "name": "한일고등학교",
+    "lat": 36.60454634,
+    "lng": 127.1288217,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://www.hanilgo.cnehs.kr"
+}, {
+    "name": "한백고등학교",
+    "lat": 37.20763155,
+    "lng": 127.1133605,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.hanbaek.hs.kr"
+}, {
+    "name": "한봄고등학교",
+    "lat": 37.25945904,
+    "lng": 126.9693453,
+    "gender": "남여공학",
+    "type": "특성화고",
+    "url": "www.hanbom.hs.kr"
+}, {
+    "name": "한일고등학교",
+    "lat": 36.60454634,
+    "lng": 127.1288217,
+    "gender": "남",
+    "type": "일반고",
+    "url": "http://www.hanilgo.cnehs.kr"
+}, {
+    "name": "한영고등학교",
+    "lat": 37.54913153,
+    "lng": 127.1577731,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://hanyoung.hs.kr"
+}, {
+    "name": "한영고등학교",
+    "lat": 34.75371344,
+    "lng": 127.714897,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://hanyoung.hs.kr"
+}, {
+    "name": "한영외국어고등학교",
+    "lat": 37.5489092,
+    "lng": 127.1581466,
+    "gender": "남여공학",
+    "type": "특목고",
+    "url": "http://hyfl.sen.hs.kr"
+}, {
+    "name": "한영고등학교",
+    "lat": 34.75371344,
+    "lng": 127.714897,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://hanyoung.hs.kr"
+}, {
+    "name": "한영중학교",
+    "lat": 37.54914056,
+    "lng": 127.1577731,
+    "gender": "남여공학",
+    "type": "  ",
+    "url": "http://hanyoung.sen.ms.kr"
+}, {
+    "name": "한일여자고등학교",
+    "lat": 35.22957678,
+    "lng": 128.5786542,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/hanilhs"
+}, {
+    "name": "한일여자고등학교",
+    "lat": 36.1377533,
+    "lng": 128.0958438,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/hanilhs"
+}, {
+    "name": "함열여자고등학교",
+    "lat": 36.08295724,
+    "lng": 126.9690849,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://hygchs.hs.kr"
+}, {
+    "name": "함현고등학교",
+    "lat": 37.36619361,
+    "lng": 126.7384563,
+    "gender": "남여공학",
+    "type": "자율고",
+    "url": "www.hamhyun.hs.kr"
+}, {
+    "name": "합포중학교",
+    "lat": 35.21578987,
+    "lng": 128.5853702,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://happo-m.gne.go.kr"
+}, {
+    "name": "해강고등학교",
+    "lat": 35.16411392,
+    "lng": 129.137539,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.haegang.hs.kr"
+}, {
+    "name": "해강고등학교",
+    "lat": 35.16411392,
+    "lng": 129.137539,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.haegang.hs.kr"
+}, {
+    "name": "김해여자고등학교",
+    "lat": 35.24055291,
+    "lng": 128.8810336,
+    "gender": "여",
+    "type": "일반고",
+    "url": "kumbul-h.gne.go.kr"
+}, {
+    "name": "현일고등학교",
+    "lat": 36.18720149,
+    "lng": 128.349288,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/hyunilhs"
+}, {
+    "name": "현풍중학교",
+    "lat": 35.6985296,
+    "lng": 128.4382371,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "http://hyeonpung.dge.ms.kr"
+}, {
+    "name": "형곡고등학교",
+    "lat": 36.10150009,
+    "lng": 128.3384215,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://school.gyo6.net/hyeonggokhs"
+}, {
+    "name": "혜성여자고등학교",
+    "lat": 37.64055021,
+    "lng": 127.0736197,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://www.hyesung.hs.kr"
+}, {
+    "name": "혜화여자고등학교",
+    "lat": 35.2022947,
+    "lng": 129.1107228,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://hyehwa-h.sen.hs.kr"
+}, {
+    "name": "혜화여자고등학교",
+    "lat": 37.63130842,
+    "lng": 127.013212,
+    "gender": "여",
+    "type": "일반고",
+    "url": "http://hyehwa-h.sen.hs.kr"
+}, {
+    "name": "호산고등학교",
+    "lat": 35.8490573,
+    "lng": 128.4818071,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://hosan.hs.kr/"
+}, {
+    "name": "호원중학교",
+    "lat": 37.71929926,
+    "lng": 127.0446514,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "howon-m.goeujb.kr"
+}, {
+    "name": "화명고등학교",
+    "lat": 35.23954676,
+    "lng": 129.0106915,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.hwamyeong.hs.kr/"
+}, {
+    "name": "화명고등학교",
+    "lat": 35.23954676,
+    "lng": 129.0106915,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "http://www.hwamyeong.hs.kr/"
+}, {
+    "name": "화홍고등학교",
+    "lat": 37.2517435,
+    "lng": 127.0402944,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.hwahong.hs.kr"
+}, {
+    "name": "화홍중학교",
+    "lat": 37.24728058,
+    "lng": 127.0347228,
+    "gender": "남여공학",
+    "type": " ",
+    "url": "https://hwahong-m.goesw.kr/"
+}, {
+    "name": "효암고등학교",
+    "lat": 35.41239092,
+    "lng": 129.1699843,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "https://hyoam-h.gne.go.kr/"
+}, {
+    "name": "효원고등학교",
+    "lat": 37.25941827,
+    "lng": 127.0390512,
+    "gender": "남여공학",
+    "type": "일반고",
+    "url": "www.hyowon.hs.kr"
+},
+    {
+    "name": "부산가톨릭대학교",
+    "lat": 35.2448396,
+    "lng": 129.0978032,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.cup.ac.kr"
+}, {
+    "name": "신라대학교",
+    "lat": 35.16792,
+    "lng": 128.9970255,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.silla.ac.kr"
+}, {
+    "name": "동서대학교",
+    "lat": 35.1461119,
+    "lng": 129.0070218,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.dongseo.ac.kr"
+}, {
+    "name": "경성대학교",
+    "lat": 35.1397716,
+    "lng": 129.0984966,
+    "gender": "",
+    "type": "대학교",
+    "url": "ks.ac.kr"
+}, {
+    "name": "충북대학교",
+    "lat": 36.62813149999999,
+    "lng": 127.4563596,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.chungbuk.ac.kr"
+}, {
+    "name": "청주대학교",
+    "lat": 36.6522355,
+    "lng": 127.4946216,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.cju.ac.kr"
+}, {
+    "name": "공주대학교",
+    "lat": 36.4689627,
+    "lng": 127.1408071,
+    "gender": "",
+    "type": "",
+    "url": ""
+}, {
+    "name": "아주대학교",
+    "lat": 37.2820187,
+    "lng": 127.0463409,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.ajou.ac.kr"
+}, {
+    "name": "서울과학기술대학교",
+    "lat": 37.6316684,
+    "lng": 127.0774813,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.seoultech.ac.kr"
+}, {
+    "name": "인하대학교",
+    "lat": 37.4500221,
+    "lng": 126.653488,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.inha.ac.kr"
+}, {
+    "name": "연세대학교",
+    "lat": 37.5663937,
+    "lng": 126.9387066,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.yonsei.ac.kr"
+}, {
+    "name": "성균관대학교",
+    "lat": 37.588227,
+    "lng": 126.993606,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.skku.edu"
+}, {
+    "name": "고려대학교",
+    "lat": 37.58938759999999 ,
+    "lng": 127.0324773,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.korea.ac.kr"
+}, {
+    "name": "중앙대학교",
+    "lat": 37.5045563,
+    "lng": 126.9569379,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.cau.ac.kr"
+}, {
+    "name": "서울대학교",
+    "lat": 37.4648267,
+    "lng": 126.9571988,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.snu.ac.kr"
+}, {
+    "name": "인천대학교",
+    "lat": 37.3749658,
+    "lng": 126.6322345,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.inu.ac.kr/"
+}, {
+    "name": "서강대학교",
+    "lat": 37.5509442,
+    "lng": 126.9410023,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.sogang.ac.kr"
+}, {
+    "name": "건국대학교",
+    "lat": 37.5423265,
+    "lng": 127.0759204,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.konkuk.ac.kr"
+}, {
+    "name": "경희대학교",
+    "lat": 37.6019881281449,
+    "lng": 127.05492325228245,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.khu.ac.kr"
+}, {
+    "name": "서울시립대학교",
+    "lat": 37.5838657,
+    "lng": 127.0587771,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.uos.ac.kr"
+}, {
+    "name": "홍익대학교",
+    "lat": 37.5507563,
+    "lng": 126.9254901,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.hongik.ac.kr/"
+}, {
+    "name": "한양대학교",
+    "lat": 37.5571759,
+    "lng": 127.0454092,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.hanyang.ac.kr"
+}, {
+    "name": "가천대학교",
+    "lat": 37.4507128,
+    "lng": 127.1288495,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.gachon.ac.kr"
+}, {
+    "name": "단국대학교",
+    "lat": 37.3213399,
+    "lng": 127.1272127,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.dankook.ac.kr"
+}, {
+    "name": "동국대학교",
+    "lat": 37.5582876,
+    "lng": 127.0001671,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.dongguk.edu"
+}, {
+    "name": "서울외국어대학교",
+    "lat": 37.481296,
+    "lng": 127.0389485,
+    "gender": "",
+    "type": "",
+    "url": ""
+}, {
+    "name": "한경대학교",
+    "lat": 37.0116265,
+    "lng": 127.2642483,
+    "gender": "",
+    "type": "",
+    "url": ""
+}, {
+    "name": "수원대학교",
+    "lat": 37.2092017,
+    "lng": 126.9769365,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.suwon.ac.kr"
+}, {
+    "name": "협성대학교",
+    "lat": 37.21320350000001,
+    "lng": 126.9533768,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.uhs.ac.kr"
+}, {
+    "name": "조선대학교",
+    "lat": 35.1414845,
+    "lng": 126.9321044,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.chosun.ac.kr"
+}, {
+    "name": "경기대학교",
+    "lat": 37.30048499999999,
+    "lng": 127.035833,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.kyonggi.ac.kr"
+}, {
+    "name": "유한대학교",
+    "lat": 37.4873602,
+    "lng": 126.8215524,
+    "gender": "",
+    "type": "전문대학",
+    "url": "www.yuhan.ac.kr"
+}, {
+    "name": "울산대학교",
+    "lat": 35.5437411,
+    "lng": 129.2562843,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.ulsan.ac.kr"
+}, {
+    "name": "숭실대학교",
+    "lat": 37.4963538,
+    "lng": 126.9572222,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.ssu.ac.kr"
+}, {
+    "name": "대덕대학교",
+    "lat": 36.3907123,
+    "lng": 127.3654646,
+    "gender": "",
+    "type": "전문대학",
+    "url": "www.ddu.ac.kr"
+}, {
+    "name": "신성대학교",
+    "lat": 36.85242059999999,
+    "lng": 126.5933322,
+    "gender": "",
+    "type": "전문대학",
+    "url": "www.shinsung.ac.kr"
+}, {
+    "name": "차의과학대학교",
+    "lat": 37.8571747,
+    "lng": 127.1376343,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.cha.ac.kr"
+}, {
+    "name": "구미대학교",
+    "lat": 36.1502454,
+    "lng": 128.2863771,
+    "gender": "",
+    "type": "전문대학",
+    "url": "www.gumi.ac.kr"
+}, {
+    "name": "충남대학교",
+    "lat": 36.3688066,
+    "lng": 127.3467804,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.cnu.ac.kr"
+}, {
+    "name": "한서대학교",
+    "lat": 36.6907235,
+    "lng": 126.5846966,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.hanseo.ac.kr"
+}, {
+    "name": "나사렛대학교",
+    "lat": 36.7962041,
+    "lng": 127.1185261,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.kornu.ac.kr"
+}, {
+    "name": "동아대학교",
+    "lat": 35.1047846,
+    "lng": 129.0190933,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.donga.ac.kr"
+}, {
+    "name": "가톨릭상지대학교",
+    "lat": 36.5693638,
+    "lng": 128.7343128,
+    "gender": "",
+    "type": "전문대학",
+    "url": "www.csj.ac.kr"
+}, {
+    "name": "경남대학교",
+    "lat": 35.18035,
+    "lng": 128.553385,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.kyungnam.ac.kr"
+}, {
+    "name": "이화여자대학교",
+    "lat": 37.5618588,
+    "lng": 126.9468339,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.ewha.ac.kr"
+}, {
+    "name": "동서울대학교",
+    "lat": 37.4599522,
+    "lng": 127.1270589,
+    "gender": "",
+    "type": "전문대학",
+    "url": "www.du.ac.kr"
+}, {
+    "name": "강남대학교",
+    "lat": 37.27574,
+    "lng": 127.13249,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.kangnam.ac.kr"
+}, {
+    "name": "대전과학기술대학교",
+    "lat": 36.3022517,
+    "lng": 127.3753252,
+    "gender": "",
+    "type": "전문대학",
+    "url": "www.dst.ac.kr"
+}, {
+    "name": "한남대학교",
+    "lat": 36.3546616,
+    "lng": 127.4210188,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.hannam.ac.kr"
+}, {
+    "name": "우송대학교",
+    "lat": 36.3344412,
+    "lng": 127.451952,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.wsu.ac.kr"
+}, {
+    "name": "건양대학교",
+    "lat": 36.1821467,
+    "lng": 127.1086914,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.konyang.ac.kr"
+}, {
+    "name": "목원대학교",
+    "lat": 36.3261215,
+    "lng": 127.3387606,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.mokwon.ac.kr"
+}, {
+    "name": "대전보건대학교",
+    "lat": 36.349597,
+    "lng": 127.4552835,
+    "gender": "",
+    "type": "전문대학",
+    "url": "www.hit.ac.kr"
+}, {
+    "name": "한밭대학교",
+    "lat": 36.3509246,
+    "lng": 127.3010886,
+    "gender": "",
+    "type": "",
+    "url": ""
+}, {
+    "name": "배재대학교",
+    "lat": 36.3217923,
+    "lng": 127.3672754,
+    "gender": "",
+    "type": "대학교",
+    "url": "www.pcu.ac.kr"
+}
+
+
+
+]
